@@ -2,7 +2,7 @@
 
 int main(int argc, char **argv)
 {
-	printf("Hello Github!\n");
+	printf("How are you?\n");
 	return 0;
 }
 
